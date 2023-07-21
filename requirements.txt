@@ -1,0 +1,9 @@
+asgiref 
+fastapi 
+werkzeug 
+loguru 
+uvicorn 
+opencv-python-headless
+onnxruntime
+
+# numpy==1.21.0

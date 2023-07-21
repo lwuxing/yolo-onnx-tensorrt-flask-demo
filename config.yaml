@@ -1,0 +1,8 @@
+LOG_LEVEL: "DEBUG"
+VERSION: "v0.0.1"
+WEIGHT_PATH: "./weights/mask_rcnn_swin_small_patch4_window7.pdparams"
+TYPE: "ONNX"
+IOU_THRESHOLD: 0.5
+CONF_THRESHOLD: 0.3
+IMAGE_SIZE: 640
+ARCH: 'tensorrt'
